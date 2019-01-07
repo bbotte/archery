@@ -13,7 +13,7 @@
 快速开始
 ===============
 
-如果是主机安装，请参考 主机安装步骤.md
+如果是主机安装，请参考 [主机安装步骤](https://github.com/bbotte/archery-sql-platfrom/blob/master/%E4%B8%BB%E6%9C%BA%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4.md)
 
 ### 系统体验
 [在线体验](http://139.199.0.191/) 
